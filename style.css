@@ -1,0 +1,65 @@
+.box{
+margin: 10px;
+padding: 10px;
+background-color: teal;
+}
+.font{
+    margin-top: 20px;
+    font-size: large;
+    text-align: center;
+    color: white;
+}
+.front{
+    margin: 10px;
+}
+.main{
+    box-shadow:2px 2px 18px rgb(0, 0, 5);
+    padding: 10px; 
+}
+.bar{
+    box-shadow:2px 2px 18px rgb(0, 0, 5);
+    padding: 10px;
+    margin: 10px;
+}
+.color{
+    color: black;
+}
+.date{
+    margin: 10px;
+padding: 10px;
+color: white;
+background-color:rgb(20, 42, 235);
+box-shadow: 2px 2px 15px rgb(0, 0, 0.55);
+}
+.announce{
+    margin: 10px;
+    box-shadow: 2px 2px 15px rgb(0, 0, 0.55);
+padding: 10px;
+color:white;
+background-color:rgb(14, 174, 238);
+}
+.hod{
+    padding:10px;
+
+}
+.hod:hover{
+    box-shadow: 2px 2px 15px rgb(0, 0, 0.55);
+    transition-duration: 0.4s; 
+}
+.footer{
+    background-color: rgb(158, 158, 158);
+    padding: 20px;
+}
+.search{
+    color: white;
+}
+.contact{
+    margin: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 10px;
+    color:black;
+    background-color:wheat;
+    box-shadow: 2px 2px 15px rgb(0, 0, 0.55);
+
+}
